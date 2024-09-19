@@ -5,6 +5,7 @@ multiple DataFrames for categories, subcategories, campaigns, and contacts. The 
 # Table of Contents
 1. Overview
 2. Project Workflow
+   
    a. Create the Category and Subcategory DataFrames
    b. Create the Campaign DataFrame
    c. Create the Contacts DataFrame
