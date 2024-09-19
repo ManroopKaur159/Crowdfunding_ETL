@@ -6,7 +6,7 @@ multiple DataFrames for categories, subcategories, campaigns, and contacts. The 
 1. Overview
 2. Project Workflow
    
-   a. Create the Category and Subcategory DataFrames
+   a. Create the Category and Subcategory DataFrames \n
    b. Create the Campaign DataFrame
    c. Create the Contacts DataFrame
    d. Create the Crowdfunding Database
