@@ -6,10 +6,11 @@ multiple DataFrames for categories, subcategories, campaigns, and contacts. The 
 1. Overview
 2. Project Workflow
    
-   a. Create the Category and Subcategory DataFrames
-   b. Create the Campaign DataFrame
-   c. Create the Contacts DataFrame
-   d. Create the Crowdfunding Database
+- a. Create the Category and Subcategory DataFrames
+- b. Create the Campaign DataFrame
+- c. Create the Contacts DataFrame
+- d. Create the Crowdfunding Database
+
 
 # Overview
 This project focuses on transforming crowdfunding data stored in Excel format into multiple clean DataFrames, which are then exported as CSV files and imported 
